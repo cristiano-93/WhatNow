@@ -14,11 +14,12 @@ h4 {
 }
 #title {
     border: 2px solid blue;    
-    border-radius: 25px;
+    border-radius: 25px;  
     opacity: 0.75;
     display: flex;
     margin: 10px auto 40px;
 }
+
 #web_desc {
     text-align: center;
     margin: 20px auto;
